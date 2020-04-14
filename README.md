@@ -6,9 +6,9 @@ Live on https://predict-salary-flask.herokuapp.com/
 
 # Web Screenshots
 
-![First Look](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/FirstLook.PNG?token=AHGUN5YQKWK445WXYLLRBEC6T3BCG)
+![First Look](https://github.com/IamAnkitSharma/salary-prediction-python/blob/master/screenshots/web/FirstLook.PNG?raw=true)
 
-![Input](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/Input.PNG?token=AHGUN54D4PTKILWOFQDHDDC6T3BGE)
+![Input](https://github.com/IamAnkitSharma/salary-prediction-python/blob/master/screenshots/web/Input.PNG?raw=true)
 
 
 ![Prediction](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/Prediction.PNG?token=AHGUN54QPA2CUBIIZWVOO6K6T3BJ2)
