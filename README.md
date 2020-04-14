@@ -1,7 +1,7 @@
 # salary-prediction-flask-flutter
 Implementation of a simple salary prediction model created using linear regression , deployed on web using flask and deployed to heroku . Android App Implemented Using Flutter
 
-# Deploymeny
+# Deployed
 Live on https://predict-salary-flask.herokuapp.com/
 
 # Web Screenshots
