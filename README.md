@@ -19,8 +19,8 @@ Implementation of a simple salary prediction model created using linear regressi
 #App Screenshots
 
 
-![Input](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/Input.PNG?token=AHGUN54D4PTKILWOFQDHDDC6T3BGE)
+![FirstLook](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/app/FirstLook.jpeg?token=AHGUN57B4N6NHML5M3AXBPS6T3BOE)
 
-![Input](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/Input.PNG?token=AHGUN54D4PTKILWOFQDHDDC6T3BGE)
+![Input](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/app/InputData.jpeg?token=AHGUN5YYZOTMOASHE7HSHRS6T3BPW)
 
-![Input](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/web/Input.PNG?token=AHGUN54D4PTKILWOFQDHDDC6T3BGE)
+![Prediction](https://raw.githubusercontent.com/IamAnkitSharma/salary-prediction-flask-flutter/master/screenshots/app/Prediction.jpeg?token=AHGUN55MYHTTYA32V4F6ERC6T3BQU)
